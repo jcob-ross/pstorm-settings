@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="signage-screen" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="YAML" />
     </extensionMap>
