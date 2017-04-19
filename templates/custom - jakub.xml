@@ -1,6 +1,14 @@
 <templateSet group="custom - jakub">
-  <template name="td" value="//TODO(jakub)[$DATE$]: $END$" shortcut="SPACE" description="todo snippet" toReformat="false" toShortenFQNames="true">
+  <template name="td" value="//TODO(jakub)[$DATE$/$TIME$]: $END$" shortcut="SPACE" description="todo snippet" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="bl" value="//BACKLOG(jakub)[$DATE$/$TIME$]: $END$" shortcut="SPACE" description="backlog snippet" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
