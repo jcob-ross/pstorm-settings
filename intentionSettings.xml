@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Control Flow/Simplify If Else" />
     <ignoreAction name="TypeScript/Generate reference path comment" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
   </component>
 </application>
