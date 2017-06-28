@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///home/jakub/homestead56/usr/bin/php" id="13c87c7b-9861-47a5-8c54-4dd5cd823562" name="homestead56" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20151012/xdebug.so">
+      <interpreter home="vagrant:///home/jakub/homestead56/usr/bin/php" id="13c87c7b-9861-47a5-8c54-4dd5cd823562" name="homestead56" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php5/20131226/xdebug.so">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/homestead56" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
