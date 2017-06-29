@@ -4,6 +4,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="signage-screen" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="YAML" />
     </extensionMap>
   </component>
