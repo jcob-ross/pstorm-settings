@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e07f10cf-db9a-41f3-a29d-e6701846c558" name="w2.webzilla.cz" url="http://w2.webzilla.cz">
+        <fileTransfer host="w2.webzilla.cz" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bdc6031c-7595-4173-9531-8874a5794911" name="hs.webzilla.cz" url="https://hs.webzilla.cz">
+        <fileTransfer host="w2.webzilla.cz" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
