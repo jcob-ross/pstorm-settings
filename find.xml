@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.*,!jquery*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
@@ -31,6 +24,17 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,!*</mask>
+      <mask>*.js,!</mask>
+      <mask>*.js,!j</mask>
+      <mask>*.js,!jq</mask>
+      <mask>*.js,!jque</mask>
+      <mask>*.js,!jquery</mask>
+      <mask>*.js,!jquery*</mask>
+      <mask>*.j,!jquery*</mask>
+      <mask>*.,!jquery*</mask>
+      <mask>*.*,!jquery*</mask>
     </recentFileMasks>
   </component>
 </application>
