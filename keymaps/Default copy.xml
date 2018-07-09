@@ -1,6 +1,0 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="CollapseBlock" />
-  <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="shift ctrl period" />
-  </action>
-</keymap>
