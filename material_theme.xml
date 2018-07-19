@@ -1,6 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="tabsHeight" value="50" />
+    <option name="userId" value="667837:164b3529d1a:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
