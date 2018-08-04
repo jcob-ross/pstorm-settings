@@ -12,6 +12,7 @@
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern="ConfirmScheduleEventEditService" type="TypeScript" />
       <mapping pattern=".env" type="YAML" />
     </extensionMap>
   </component>
