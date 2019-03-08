@@ -9,6 +9,7 @@
       <mapping pattern="signage-screen" type="PLAIN_TEXT" />
       <mapping pattern="activity" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
+      <mapping ext="texy" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
